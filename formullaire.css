@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(224, 19, 88);
+}
+.Global{
+    border: 3px dashed black ;
+    padding: 30px;
+    background-color: plum;
+    width: 60%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.div_1{
+    margin-bottom: 30px;
+}
+.div_2{
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+.div_3{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.div_4{
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+.select{
+    height: 60px;
+}
+.Champs{
+    margin-left: 60%;
+}
+.botona{
+    width: 70px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+    color: white;
+    background-color: palevioletred;
+}
+.botona:hover{
+    background-color: blueviolet;
+    color: black;
+
+}
